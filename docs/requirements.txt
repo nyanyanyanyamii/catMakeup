@@ -1,2 +1,2 @@
-recommonmark==1.4.1
+recommonmark
 sphinx-markdown-tables==0.0.15
