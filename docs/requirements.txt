@@ -1,2 +1,4 @@
 recommonmark
-sphinx-markdown-tables==0.0.15
+sphinx-markdown-tables
+sphinx-autobuild
+sphinx_rtd_theme
